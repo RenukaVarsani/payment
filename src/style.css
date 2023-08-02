@@ -1,0 +1,27 @@
+.choose::-webkit-file-upload-button {
+  display: none;
+}
+
+.hidden {
+  padding-left: 36px;
+}
+
+/* input::file-selector-button {
+    font-weight: bold;
+    color: dodgerblue;
+    padding: 0.5em;
+    border: thin solid grey;
+    border-radius: 3px;
+} */
+
+.css-1wf2bll-MuiStack-root {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: auto;
+  padding-top: 0px;
+}
